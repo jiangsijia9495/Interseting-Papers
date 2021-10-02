@@ -52,6 +52,10 @@
 
 ## NERF
 
+### ArXiv
+
+[KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](https://arxiv.org/abs/2103.13744). ArXiv, 2021. [[Code]](https://github.com/creiser/kilonerf)
+
 
 
 
