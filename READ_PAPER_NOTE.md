@@ -11,8 +11,11 @@
 - [SIREN](#SIREN)
 - [NERF](#NERF)
 - [Contrastive Learning](#Contrastive Learning)
-- 
-
+- [Human-Object Interaction](#human-object-interaction)
+- [Animation](#animation)
+- [Cloth/Try-On](#cloth/try-on)
+- [Neural Rendering](#neural-rendering)
+- [Dataset](#dataset)
 -----
 
 
