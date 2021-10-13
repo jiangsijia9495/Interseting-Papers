@@ -10,6 +10,7 @@
 
 - [SIREN](#SIREN)
 - [NERF](#NERF)
+- [Contrastive Learning](#Contrastive Learning)
 
 -----
 
@@ -56,6 +57,12 @@
 ### ArXiv
 
 [KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](https://arxiv.org/abs/2103.13744). ArXiv, 2021. [[Code]](https://github.com/creiser/kilonerf)
+
+
+## Contrastive Learning
+
+### ICML
+[A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf). ICML, 2020. [[Code]](https://github.com/google-research/simclr)
 
 
 
