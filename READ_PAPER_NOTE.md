@@ -10,10 +10,10 @@
 
 - [SIREN](#SIREN)
 - [NERF](#NERF)
-- [Contrastive Learning](#Contrastive Learning)
+- [Contrastive Learning](#contrastive-learning)
 - [Animation](#animation)
 - [Cloth/Try-On](#cloth/try-on)
-- [Neural Rendering](#neural-rendering)
+- [Contrastive Learning](#neural-rendering)
 - [Dataset](#dataset)
 -----
 
