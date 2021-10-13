@@ -26,6 +26,7 @@
 
 ### ICCV
 [Modulated Periodic Activations for Generalizable Local Functional Representations](https://cseweb.ucsd.edu/~ravir/ishit_iccv.pdf). ICCV, 2021.
+   - **Abstract:** Recent works have significantly improved their ability to represent high-frequency content by using periodic activations or positional encodings. This often came at the expense of generalization: modern methods are typically optimized for a single signal. We present a new representation that generalizes to multiple instances and achieves state-of-the-art fidelity
    - **Inspiration:** A simpler alternative to using a separate modulation network would be to concatenate the latent codes and the input coordinates, and use the resultant vector as a single input to the synthesis network. This strategy has shown to be fruitful for ReLU-based synthesis networks for encoding signed distance fields [32]. However, we find it consistently fails with sine activations.
 
 
