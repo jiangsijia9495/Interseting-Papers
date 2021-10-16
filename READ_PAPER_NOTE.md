@@ -11,6 +11,7 @@
 - [SIREN](#SIREN)
 - [NERF](#NERF)
 - [Contrastive Learning](#contrastive-learning)
+- [Recent Implicit Function Improvement](#recent-implicit-function-improvement)
 -----
 
 
@@ -62,6 +63,8 @@
 
 
 
+
+
 ## Contrastive Learning
 
 ### ICML
@@ -69,6 +72,16 @@
 [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf). ICML, 2020. [[Code]](https://github.com/google-research/simclr)
 
 
+## Recent Implicit Function Improvement
+
+### Spatial Sampling
+[Overfit neural networks as a compact shape representation](). , 2020. [[Code]]()
+
+### training procedure
+[Metasdf: Meta-learning signed distance functions](). , 2020. [[Code]]()
+
+## loss functions
+[Implicit geometric regularization for learning shapes](). , 2020. [[Code]]()
 
 
 -----
