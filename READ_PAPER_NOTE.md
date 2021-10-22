@@ -74,6 +74,9 @@
 
 ## Recent Implicit Function Improvement
 
+### Differential Implicit Rendering
+[Differentiable Volumetric Rendering:Learning Implicit 3D Representations without 3D Supervision](http://www.cvlibs.net/publications/Niemeyer2020CVPR.pdf). CVPR,2020. [[Code]] (https://github.com/autonomousvision/differentiable_volumetric_rendering)
+
 ### Spatial Sampling
 [Overfit neural networks as a compact shape representation](). , 2020. [[Code]]()
 
