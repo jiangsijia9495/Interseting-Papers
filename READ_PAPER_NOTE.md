@@ -12,6 +12,7 @@
 - [NERF](#NERF)
 - [Contrastive Learning](#contrastive-learning)
 - [Recent Implicit Function Improvement](#recent-implicit-function-improvement)
+- [Poisson Surface Reconstrction](#poisson-surface-reconstrction)
 -----
 
 
@@ -83,8 +84,13 @@
 ### training procedure
 [Metasdf: Meta-learning signed distance functions](). , 2020. [[Code]]()
 
-## loss functions
+### loss functions
 [Implicit geometric regularization for learning shapes](). , 2020. [[Code]]()
+
+
+## Poisson Surface Reconstrction
+
+[Shape As Points: A Differentiable Poisson Solver](https://arxiv.org/pdf/2106.03452.pdf). NeurIPS,2021.
 
 
 -----
