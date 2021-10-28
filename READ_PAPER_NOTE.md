@@ -91,6 +91,9 @@
 ## Poisson Surface Reconstrction
 
 [Shape As Points: A Differentiable Poisson Solver](https://arxiv.org/pdf/2106.03452.pdf). NeurIPS,2021.
+   - **Inspiration:** 
+     1. Use Differentiable Poisson Solver to generate indicator grid from ground truth mesh. This avoids running Marching Cubes at every iteration and accelerates training. 
+     2.  s
 
 
 -----
