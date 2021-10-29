@@ -57,6 +57,12 @@
 
 ## NERF
 
+### ICCV
+
+[UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction](https://arxiv.org/abs/2104.10078) . ICCV, 2021. [[Code]](https://github.com/autonomousvision/unisurf)
+   - **Abstract:** Unify surface rendering and volume rendering for implicit surfaces. DVR need mask. Nerf does not need mask but does not have clear threshold for surface.
+   - 
+
 ### ArXiv
 
 [KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs](https://arxiv.org/abs/2103.13744). ArXiv, 2021. [[Code]](https://github.com/creiser/kilonerf)
